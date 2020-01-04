@@ -1,0 +1,11 @@
+C:\Users\abanoub.nageh\Desktop\AsyncPoc\AsyncPoc\bin\Debug\netcoreapp2.0\AsyncPoc.deps.json
+C:\Users\abanoub.nageh\Desktop\AsyncPoc\AsyncPoc\bin\Debug\netcoreapp2.0\AsyncPoc.runtimeconfig.json
+C:\Users\abanoub.nageh\Desktop\AsyncPoc\AsyncPoc\bin\Debug\netcoreapp2.0\AsyncPoc.runtimeconfig.dev.json
+C:\Users\abanoub.nageh\Desktop\AsyncPoc\AsyncPoc\bin\Debug\netcoreapp2.0\AsyncPoc.dll
+C:\Users\abanoub.nageh\Desktop\AsyncPoc\AsyncPoc\bin\Debug\netcoreapp2.0\AsyncPoc.pdb
+C:\Users\abanoub.nageh\Desktop\AsyncPoc\AsyncPoc\obj\Debug\netcoreapp2.0\AsyncPoc.csprojResolveAssemblyReference.cache
+C:\Users\abanoub.nageh\Desktop\AsyncPoc\AsyncPoc\obj\Debug\netcoreapp2.0\AsyncPoc.csproj.CoreCompileInputs.cache
+C:\Users\abanoub.nageh\Desktop\AsyncPoc\AsyncPoc\obj\Debug\netcoreapp2.0\AsyncPoc.AssemblyInfoInputs.cache
+C:\Users\abanoub.nageh\Desktop\AsyncPoc\AsyncPoc\obj\Debug\netcoreapp2.0\AsyncPoc.AssemblyInfo.cs
+C:\Users\abanoub.nageh\Desktop\AsyncPoc\AsyncPoc\obj\Debug\netcoreapp2.0\AsyncPoc.dll
+C:\Users\abanoub.nageh\Desktop\AsyncPoc\AsyncPoc\obj\Debug\netcoreapp2.0\AsyncPoc.pdb
